@@ -35,4 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fzs1994&show_icons=true&locale=en" alt="fzs1994" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fzs1994&" alt="fzs1994" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fzs1994&theme=tokyonight_duo&hide_border=true&border_radius=10)](https://git.io/streak-stats)
